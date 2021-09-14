@@ -1,0 +1,167 @@
+{
+    "features": [
+        {
+            "name": "Birthday System",
+            "emoji": "🎂",
+            "description": "Allow members to see their exact ages",
+            "database_required": true,
+            "image_url": "https://i.imgur.com/1fc7nHa.png"
+        },
+        {
+            "name": "Reaction Handler",
+            "emoji": "🤹",
+            "description": "Who performs an action or assigns a role",
+            "image_url": "https://i.imgur.com/4AoQVfB.png"
+        },
+        {
+            "name": "Leveling System",
+            "emoji": "🆙",
+            "description": "Allow members to see the **number of messages** they have sent, the **time** they have spent in voice, their **level** and **experience** (calculation system inspired by <:MEE6:829711873607860274> MEE6)",
+            "rich_description": "Allow members to see the [b]number of messages[/b] they have sent, the [b]time[/b] they have spent in voice, their [b]level[/b] and [b]experience[/b] (calculation system inspired by MEE6)",
+            "database_required": true,
+            "image_url": "https://i.imgur.com/m5nsmO1.png"
+        },
+        {
+            "name": "Ticket System",
+            "emoji": "🎫",
+            "description": "Like on this server but with more features (no database required)"
+        },
+        {
+            "name": "Steam API",
+            "emoji": "🕹️",
+            "description": "Allow members to have information about Steam user",
+            "image_url": "https://i.imgur.com/nC56rNX.png"
+        },
+        {
+            "name": "Minecraft API",
+            "emoji": "⛏️",
+            "description": "Allow members to have information about Minecraft player",
+            "image_url": "https://i.imgur.com/065c7xy.png"
+        },
+        {
+            "name": "Hypixel API",
+            "emoji": "🛏️",
+            "description": "Allow members to have information about Hypixel player",
+            "image_url": "https://i.imgur.com/Ob06slR.png"
+        },
+        {
+            "name": "Logger System",
+            "emoji": "📖",
+            "description": "Avatar, Bot, DM, Guild, Join and Leave, Nickname, Roles, Username, Voice",
+            "image_url": "https://i.imgur.com/pO4gTGu.png"
+        },
+        {
+            "name": "Spotify API",
+            "emoji": "🎧",
+            "description": "Allow members to share their Spotify activity",
+            "hex_color": "#1ed760",
+            "image_url": "https://i.imgur.com/KP6XQLN.png"
+        },
+        {
+            "name": "Blockchain API",
+            "emoji": "⛓️",
+            "description": "Allow members to see the current price of Bitcoin",
+            "image_url": "https://i.imgur.com/4tJ2knV.png"
+        },
+        {
+            "name": "Leaderboard",
+            "emoji": "🏆",
+            "description": "Allow members to view a ranking about any value (e.g.: messages, experience, points, coins, etc.)",
+            "database_required": true,
+            "image_url": "https://i.imgur.com/BPTnW8S.png"
+        },
+        {
+            "name": "Voice State",
+            "emoji": "🎤",
+            "description": "Allow members to have information about their voice session",
+            "image_url": "https://i.imgur.com/NqFPvtA.png"
+        },
+        {
+            "name": "Radio System",
+            "emoji": "📻"
+        },
+        {
+            "name": "Join and Leave Message",
+            "emoji": "🚪"
+        },
+        {
+            "name": "Basic Commands",
+            "emoji": "💻",
+            "description": "Help, Avatar"
+        },
+        {
+            "name": "Moderation Commands",
+            "emoji": "🔨",
+            "description": "Mute, Unmute, Ban, Unban, Kick"
+        },
+        {
+            "name": "Hecate Features",
+            "emoji": "🌙",
+            "description": "https://top.gg/bot/839696171596775444"
+        },
+        {
+            "name": "Activity Updater",
+            "emoji": "🚁",
+            "description": "Allows you to change the activity of your bot every X seconds"
+        },
+        {
+            "name": "Autoroles",
+            "emoji": "🎭"
+        },
+        {
+            "name": "Confession System",
+            "emoji": "🙊",
+            "description": "Allow your members to confess while being anonymous"
+        },
+        {
+            "name": "Suggestion System",
+            "emoji": "🙉",
+            "description": "Allow your members to share their suggestions"
+        },
+        {
+            "name": "Email Sender",
+            "emoji": "📧",
+            "description": "Allows you to send an email to any address (useful for double authentication)"
+        },
+        {
+            "name": "Giphy API",
+            "emoji": "🖼️",
+            "description": "Allows you to retrieve any gif from the internet",
+            "image_url": "https://i.imgur.com/hek483n.png"
+        },
+        {
+            "name": "Sniper",
+            "emoji": "🎯",
+            "description": "Famous feature of the Dank Memer bot that allows to display the last deleted or modified message"
+        },
+        {
+            "name": "Pinboard",
+            "emoji": "📌",
+            "description": "Allows you to pin your favorite messages so they never disappear (we use Imgur to save the images)",
+            "image_url": "https://i.imgur.com/6cD89BF.png"
+        },
+        {
+            "name": "Twitter API",
+            "emoji": "🐦",
+            "description": "Allows you to retrieve tweets from your favorite accounts in real time"
+        },
+        {
+            "name": "Vouch System",
+            "emoji": "✨",
+            "description": "Allows you to add or remove reputation points while giving your opinion on a user",
+            "database_required": true
+        },
+        {
+            "name": "Discord Bot List API",
+            "emoji": "🗳️",
+            "description": "Allows you to collect member's votes and give out any awards",
+            "image_url": "https://i.imgur.com/4XNzHFW.png"
+        },
+        {
+            "name": "Counter Strike API",
+            "emoji": "🔫",
+            "description": "Allow your members to retrieve information about their CS:GO profile like the value of an item or their inventory",
+            "image_url": "https://i.imgur.com/z2T6WG5.png"
+        }
+    ]
+}
